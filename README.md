@@ -1,5 +1,7 @@
 WELCOME TO GET-AGE-NPM Package
 
+note(it can be used in JavaScript for now)
+
 Most Wanted Package 
 Dont Be Afraid to test it I know it my first npm package but hey 
 trust me you will see.....
