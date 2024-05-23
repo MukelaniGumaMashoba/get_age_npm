@@ -8,7 +8,7 @@ Most Wanted Package Dont Be Afraid to test it I know it my first npm package but
 
 -How to run it
 
-				npm install get-age-npm
+				npm install get_age_npm
 
 the boom it there and make your life easy
 
