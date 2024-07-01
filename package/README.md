@@ -1,6 +1,6 @@
 # get-age-npm
 
-note(it can be used in JavaScript for now)
+note(it can be used in JavaScript or Typescript)
 
 WELCOME TO GET-AGE-NPM Package
 
