@@ -21,4 +21,4 @@ function getAgeAndGender(id_number) {
     return { gender, age };
 }
 
-export default getAgeAndGender;
+module.exports = getAgeAndGender;
