@@ -1,6 +1,6 @@
 {
   "name": "get_age_npm",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A package for react native to identify if user is male or female using id number and get age of user",
   "main": "index.js",
   "scripts": {
