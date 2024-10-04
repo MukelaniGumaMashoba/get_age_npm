@@ -1,9 +1,7 @@
 function getAgeAndGender(id_number) {
-    if (typeof id_number !== 'number' || !Number.isInteger(id_number)) {
-        throw new Error("id_number must be an integer.");
+    if (typeof id_number !== 'string' || id_number.length !== 13) {
+        throw new Error("Invalid ID number format. Must be a 13-character string.");
     }
-
-    id_number = id_number.toString();
 
     // Gender determination
     let get_gender = parseInt(id_number.charAt(6), 10);
